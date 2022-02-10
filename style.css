@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.buttons{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+}
